@@ -13,7 +13,7 @@
     />
     <img
         alt="GitHub Stats.svg"
-        height="200px" align="center"
+        height="190px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api?username=Alan-Kuan&show_icons=true"
     />
 </picture>
@@ -29,7 +29,7 @@
     />
     <img
         alt="Top Languages.svg"
-        height="200px" align="center"
+        height="190px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact"
     />
 </picture>
