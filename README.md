@@ -137,3 +137,7 @@ I am happy to share my experiences at Microsoft.
         />
     </picture>
 </a>
+
+---
+
+The cards were made with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
