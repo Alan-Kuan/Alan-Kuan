@@ -5,17 +5,15 @@
 <picture>
     <source
         srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=Alan-Kuan&show_icons=true&theme=gruvbox"
-        height="200px"
         media="(prefers-color-scheme: dark)"
     />
     <source
         srcset="https://github-readme-stats-alan-kuan.vercel.app/api?username=Alan-Kuan&show_icons=true"
-        height="200px"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         alt="GitHub Stats.svg"
-        height="200px"
+        height="200px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api?username=Alan-Kuan&show_icons=true"
     />
 </picture>
@@ -23,17 +21,15 @@
 <picture>
     <source
         srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&theme=gruvbox"
-        height="200px"
         media="(prefers-color-scheme: dark)"
     />
     <source
         srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact"
-        height="200px"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         alt="Top Languages.svg"
-        height="200px"
+        height="200px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact"
     />
 </picture>
