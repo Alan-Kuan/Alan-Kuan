@@ -19,17 +19,17 @@
 </picture>
 <picture>
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&theme=gruvbox"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&hide=jupyter%20notebook&theme=gruvbox"
         media="(prefers-color-scheme: dark)"
     />
     <source
-        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact"
+        srcset="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&hide=jupyter%20notebook"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
         alt="Top Languages.svg"
         height="190px" align="center"
-        src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact"
+        src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&hide=jupyter%20notebook"
     />
 </picture>
 
