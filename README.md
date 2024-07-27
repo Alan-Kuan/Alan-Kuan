@@ -12,7 +12,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-        alt="GitHub Stats.svg"
+        alt="Refresh the page to see my GitHub Stats"
         height="190px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api?username=Alan-Kuan&show_icons=true"
     />
@@ -27,7 +27,7 @@
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img
-        alt="Top Languages.svg"
+        alt="Refresh the page to see the most used languages of me"
         height="190px" align="center"
         src="https://github-readme-stats-alan-kuan.vercel.app/api/top-langs?username=Alan-Kuan&layout=compact&hide=jupyter%20notebook"
     />
